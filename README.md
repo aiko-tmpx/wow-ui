@@ -74,6 +74,7 @@
 
 ## Другие полезные аддоны (которые были в tww, но не факт, что обновлены, проверяем)
 
+* [MeleeRangeIndicator](https://www.curseforge.com/wow/addons/meleerangeindicator) - рисует крестик на мили чарах
 * [Baganator](https://www.curseforge.com/wow/addons/baganator) - объединенные сумки всех персонажей с поиском
 * [MinimapStats](https://www.curseforge.com/wow/addons/minimapstats) - время, координаты, ФПС на миникарте, мой [профиль](midnight/minimap-stats.txt)
 * [Teleport Menu](https://www.curseforge.com/wow/addons/teleport-me-nu) - все телепорты в одном меню
