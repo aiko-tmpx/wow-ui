@@ -53,42 +53,36 @@
 3. Вставляем и применяем
 
 **Ссылка:** [BigWigs на CurseForge](https://www.curseforge.com/wow/addons/big-wigs)
+
+## Enhance QoL
+1. `/eqol`
+2. Profiles
+3. Import profile
+4. Копируем [профиль](midnight/eqol.txt)
+5. Вставляем и применяем
+
+**Ссылка:** [Enhance QoL на CurseForge](https://www.curseforge.com/wow/addons/eqol)
 ---
 
 ## Обязательные аддоны (уже обновлены)
 
 * [BugSack](https://www.curseforge.com/wow/addons/bugsack) - собирает баги, вместо ошибок на экране
 * [BugGrabber](https://www.curseforge.com/wow/addons/bug-grabber) - собирает баги, вместо ошибок на экране
-* [Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus) - Quality of Life апгрейды, `/ltp` для конфига
 * [WarpDeplete Mythic+ Timer](https://www.curseforge.com/wow/addons/warpdeplete) - М+ таймер!
 * [Targeted Spells](https://www.curseforge.com/wow/addons/targetedspells) - показывает когда в вас летят спеллы, вместо той самой ва
 ---
 
 ## Другие полезные аддоны (которые были в tww, но не факт, что обновлены, проверяем)
 
-* [BlizzMove](https://www.curseforge.com/wow/addons/blizzmove) - перетаскивание окон Blizzard мышкой
-* [idTip](https://www.curseforge.com/wow/addons/idtip) - ID предметов и заклинаний в тултипах
 * [Baganator](https://www.curseforge.com/wow/addons/baganator) - объединенные сумки всех персонажей с поиском
 * [MinimapStats](https://www.curseforge.com/wow/addons/minimapstats) - время, координаты, ФПС на миникарте, мой [профиль](midnight/minimap-stats.txt)
-* [DejaCharacterStats](https://www.curseforge.com/wow/addons/dejacharacterstats) - импрув окна персонажа
-* [Talent Loadout Manager](https://www.curseforge.com/wow/addons/talent-loadout-manager) - больше 10 наборов талантов
-* [DialogKey - Numy Edition](https://www.curseforge.com/wow/addons/dialogkey-numy-edition) - хоткеи для диалоговых окон
 * [Teleport Menu](https://www.curseforge.com/wow/addons/teleport-me-nu) - все телепорты в одном меню
 * [Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft) - экспорт для симуляций через /simc
 * [Addon Usage](https://www.curseforge.com/wow/addons/addon-usage) - мониторинг памяти и ЦПУ аддонов
 * [Method Raid Tools](https://www.curseforge.com/wow/addons/method-raid-tools) - напоминания и кулдауны в рейде
 * [SharedMedia_Causese](https://www.curseforge.com/wow/addons/sharedmedia_causese) - дополнительные звуки и текстуры
-* [Better Loot Message](https://www.curseforge.com/wow/addons/better-loot-message) - улучшенные сообщения о луте
-* [BetterCharacterPanel](https://www.curseforge.com/wow/addons/bettercharacterpanel) - импрув окна персонажа
 * [GroupfinderFlags](https://www.curseforge.com/wow/addons/groupfinderflags) - флаги!
 * [BetterAddonList](https://www.curseforge.com/wow/addons/betteraddonlist) - удобное управление списком аддонов
-* [Can I Mog It?](https://www.curseforge.com/wow/addons/can-i-mog-it) - трансмог импрув
 * [Flash Taskbar](https://www.curseforge.com/wow/addons/flash-taskbar) - мигание иконки в панели задач, для тех, кто альт табается
-* [Global Ignore List and Chat Spam Filter](https://www.curseforge.com/wow/addons/global-ignore-list) - общий игнор на всех чарах с пометками
 * [True Stat Values](https://www.curseforge.com/wow/addons/true-stat-values) - диминишинг статов
-* [Better Wardrobe and Transmog](https://www.curseforge.com/wow/addons/better-wardrobe-and-transmog) - улучшенная трансмогрификация
-* [GroupFinderRio](https://www.curseforge.com/wow/addons/groupfinderrio) - РИО в окне поиска группы, сортировка и тд
 * [Raider.IO Mythic Plus, Raid Progress, and Recruitment](https://www.curseforge.com/wow/addons/raiderio) - РИО!
-* [LS: Toasts](https://www.curseforge.com/wow/addons/ls-toasts) - кастомные всплывающие уведомления на лут
-* [TipTac Reborn](https://www.curseforge.com/wow/addons/tiptac-reborn) - улучшенный тултип
-* [Premade Groups Filter](https://www.curseforge.com/wow/addons/premade-groups-filter) - фильтрация групп в лфг
