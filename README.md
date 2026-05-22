@@ -37,15 +37,6 @@
 
 
 
-## BetterCooldownManager - кулдаун менеджер
-1. `/bcm`
-2. **Profiles** → **Import string**
-3. Копируем [профиль](midnight/bcm.txt)
-4. Вставляем и применяем
-5. Выставляем Global Profile, чтобы использовался на всех чарах
-
-**Ссылка:** [BetterCooldownManager на CurseForge](https://www.curseforge.com/wow/addons/bettercooldownmanager)
-
 ## BigWigs
 1. `/bw`
 2. Копируем [профиль](midnight/big-wigs.txt)
@@ -72,7 +63,6 @@
 4. Копируем [профиль](midnight/details.txt)
 5. Сохраняем и называем профиль
 6. Ставим галочку `use on all characters` и выбираем новый профиль
-
 
 ---
 
