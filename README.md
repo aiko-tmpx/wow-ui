@@ -9,14 +9,14 @@
 ## Профили
 
 - [Blizzard Edit Mode](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/blizz.txt)
-- [EUI / EllesmereUI](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/eui.txt)
+- [EllesmereUI](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/eui.txt)
 - [BigWigs](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/big-wigs.txt)
 - [Targeted Spells — Party](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-party.txt)
 - [Targeted Spells — Player](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-player.txt)
 
 ## Аддоны
 
-- EUI / EllesmereUI
+- EllesmereUI
 - BigWigs
 - Targeted Spells
 - Midnight Focus Interrupt
