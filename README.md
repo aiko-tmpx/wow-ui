@@ -8,26 +8,11 @@
 
 ## Профили
 
-### Blizzard Edit Mode
-
-`Escape` → `Edit Mode` → `Layout` → `Import`.
-
-Импортировать [blizz.txt](midnight/blizz.txt).
-
-### EUI / EllesmereUI
-
-Импортировать профиль из [eui.txt](midnight/eui.txt), затем выполнить `/reload`.
-
-### BigWigs
-
-Открыть `/bw` и импортировать [big-wigs.txt](midnight/big-wigs.txt).
-
-### Targeted Spells
-
-Импортировать нужный профиль:
-
-- [targeted-spells-party.txt](midnight/targeted-spells-party.txt)
-- [targeted-spells-player.txt](midnight/targeted-spells-player.txt)
+- [Blizzard Edit Mode](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/blizz.txt)
+- [EUI / EllesmereUI](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/eui.txt)
+- [BigWigs](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/big-wigs.txt)
+- [Targeted Spells — Party](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-party.txt)
+- [Targeted Spells — Player](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-player.txt)
 
 ## Аддоны
 
