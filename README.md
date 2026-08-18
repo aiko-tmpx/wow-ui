@@ -2,97 +2,61 @@
 
 ![UI Screenshot](screens/ui.jpg)
 
-## RU
+Короткая инструкция для интерфейса WoW Midnight.
 
-Интерфейс для 2к мониторов, рекомендуемый масштаб интерфейса 0.58 (ставится в `/uuf` автоматом в профиле)
-Для full hd ставим 0.65 (в `/uuf`)
+- Поддерживается разрешение `2k`; масштаб интерфейса — `0.58`.
 
+## Профили
 
-## Blizzard Edit Mode
+### Blizzard Edit Mode
 
-1. Escape
-2. Edit Mode
-3. Layout
-4. Import
-5. Копируем [Blizzard UI Layout](midnight/blizz.txt) и применяем
+`Escape` → `Edit Mode` → `Layout` → `Import`.
 
+Импортировать [blizz.txt](midnight/blizz.txt).
 
-## Platynator - плейты над головами мобов (с реколорами в данжах)
-1. `/platy`
-2. **General** → **Import**
-3. Копируем [профиль](midnight/platynator.txt)
-4. Вставляем и применяем
+### EUI / EllesmereUI
 
-**Ссылка:** [Platynator на CurseForge](https://www.curseforge.com/wow/addons/platynator)
+Импортировать профиль из [eui.txt](midnight/eui.txt), затем выполнить `/reload`.
 
+### BigWigs
 
-## Unhalted Unit Frames - плеер таргет фреймы
-1. `/uuf`
-2. **Profiles** → **Sharing options** → **Import string**
-3. Копируем [профиль](midnight/uuf.txt)
-4. Вставляем и применяем
-5. Выставляем Global Profile, чтобы использовался на всех чарах
+Открыть `/bw` и импортировать [big-wigs.txt](midnight/big-wigs.txt).
 
-**Ссылка:** [Unhalted Unit Frames на CurseForge](https://www.curseforge.com/wow/addons/unhaltedunitframes)
+### Targeted Spells
 
+Импортировать нужный профиль:
 
+- [targeted-spells-party.txt](midnight/targeted-spells-party.txt)
+- [targeted-spells-player.txt](midnight/targeted-spells-player.txt)
 
-## BigWigs
-1. `/bw`
-2. Копируем [профиль](midnight/big-wigs.txt)
-3. Вставляем и применяем
+## Аддоны
 
-**Ссылка:** [BigWigs на CurseForge](https://www.curseforge.com/wow/addons/big-wigs)
+- EUI / EllesmereUI
+- BigWigs
+- Targeted Spells
+- Midnight Focus Interrupt
+- SharedMedia_Causese
+- GroupFinderRIO
+- Premade Groups Filter
+- GroupfinderFlags
+- Syndicator
+- BlizzMove
+- Teleport Menu
+- Class Codex
+- MeleeRangeIndicator
+- MRT / Method Raid Tools
+- MDT / Mythic Dungeon Tools
+- MPlusTimer
+- City Guide
+- BugSack
+- BugGrabber
+- BetterAddonList
+- True Stat Values
+- Simulationcraft
+- Addon Usage
 
-## Enhance QoL - мега аддон с кучей Quality Of Life фишек
-1. `/eqol`
-2. Profiles
-3. Import profile
-4. Копируем [профиль](midnight/eqol.txt)
-5. Вставляем и применяем
+## После установки
 
-**Ссылка:** [Enhance QoL на CurseForge](https://www.curseforge.com/wow/addons/eqol)
+Чтобы отключить звук ошибок BugSack:
 
-### Как сделать, чтобы панели не прятались, а всегда были видны?
-`/eqol` - Interface - Actions bars & buttons - убираем галочку `Mouseover` с каждой панели
-
-## Details
-1. `/details options`
-2. Profiles
-3. Import profile
-4. Копируем [профиль](midnight/details.txt)
-5. Сохраняем и называем профиль
-6. Ставим галочку `use on all characters` и выбираем новый профиль
-
----
-
-## Обязательные аддоны
-
-* [BugSack](https://www.curseforge.com/wow/addons/bugsack) - собирает баги, вместо ошибок на экране
-* [BugGrabber](https://www.curseforge.com/wow/addons/bug-grabber) - собирает баги, вместо ошибок на экране
-
-### Как вырубить звук fatality, когда летят ошибки?
-Escape - Options - Addons - Bugsack - Mute
-
----
-
-## Другие полезные аддоны
-* [MPlusTimer](https://www.curseforge.com/wow/addons/mplustimer) - М+ таймер!
-* [RaidFrameSettings](https://www.curseforge.com/wow/addons/raid-frame-settings) - хороший скин дефолтных близзард фреймов, мой [профиль](midnight/rfs.md)
-* [Missing Class Buff](https://www.curseforge.com/wow/addons/missing-class-buff) - помогает трекать классовые баффы типа ядов роги, лапы друида и тд, конфигурируется в Edit Mode
-* [Class Reminders](https://www.curseforge.com/wow/addons/class-reminders) - более мощный аддон, вместо `Missing Class Buff`, но я его не трогал, ибо хватило простого
-* [Targeted Spells](https://www.curseforge.com/wow/addons/targetedspells) - показывает когда в вас летят спеллы, вместо той самой ва
-* [MeleeRangeIndicator](https://www.curseforge.com/wow/addons/meleerangeindicator) - рисует крестик на мили чарах
-* [Skyriding Falcon](https://www.curseforge.com/wow/addons/falcon) - аддон на полеты, вместо ва, конфигурируется в Edit Mode
-* [Baganator](https://www.curseforge.com/wow/addons/baganator) - объединенные сумки всех персонажей с поиском
-* [MinimapStats](https://www.curseforge.com/wow/addons/minimapstats) - время, координаты, ФПС на миникарте, мой [профиль](midnight/minimap-stats.txt)
-* [Teleport Menu](https://www.curseforge.com/wow/addons/teleport-me-nu) - все телепорты в одном меню
-* [Simulationcraft](https://www.curseforge.com/wow/addons/simulationcraft) - экспорт для симуляций через /simc
-* [Addon Usage](https://www.curseforge.com/wow/addons/addon-usage) - мониторинг памяти и ЦПУ аддонов
-* [Method Raid Tools](https://www.curseforge.com/wow/addons/method-raid-tools) - напоминания и кулдауны в рейде
-* [GroupfinderFlags](https://www.curseforge.com/wow/addons/groupfinderflags) - флаги!
-* [BetterAddonList](https://www.curseforge.com/wow/addons/betteraddonlist) - удобное управление списком аддонов
-* [True Stat Values](https://www.curseforge.com/wow/addons/true-stat-values) - диминишинг статов
-* [Raider.IO Mythic Plus, Raid Progress, and Recruitment](https://www.curseforge.com/wow/addons/raiderio) - РИО!
-* [Prat 3.0](https://www.curseforge.com/wow/addons/prat-3-0) - рескин чата
-* [City Guide](https://www.curseforge.com/wow/addons/city-guide) - отображение на карте NPC в городах
+`Escape` → `Options` → `Addons` → `BugSack` → `Mute`.
