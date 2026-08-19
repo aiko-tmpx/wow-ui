@@ -4,7 +4,7 @@
 
 A short guide for the WoW Midnight UI.
 
-- Supports `2K` resolution; UI scale: `0.58`.
+- Designed for `2K` resolution; UI scale: `0.58`.
 
 ## Profiles
 
