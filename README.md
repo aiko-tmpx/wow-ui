@@ -43,7 +43,7 @@ A short guide for the WoW Midnight UI.
 
 Most of the UI uses the Expressway font. For the full experience, it is recommended to replace the default Blizzard addon fonts with Expressway as well.
 
-Download [`font.zip`](midnight/font.zip)
+Download [`font.zip`](midnight/fonts.zip)
 
 Inside the archive:
 
