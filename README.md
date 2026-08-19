@@ -2,20 +2,19 @@
 
 ![UI Screenshot](screens/ui.jpg)
 
-Короткая инструкция для интерфейса WoW Midnight.
+A short guide for the WoW Midnight UI.
 
-- Поддерживается разрешение `2k`; масштаб интерфейса — `0.58`.
+- Supports `2K` resolution; UI scale: `0.58`.
 
-## Профили
+## Profiles
 
 - [Blizzard Edit Mode](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/blizz.txt)
 - [EllesmereUI](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/eui.txt)
 - [BigWigs](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/big-wigs.txt)
-- [Targeted Spells — Party](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-party.txt)
-- [Targeted Spells — Player](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-player.txt)
+- [Targeted Spells - Party](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-party.txt)
+- [Targeted Spells - Player](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-player.txt)
 
-## Аддоны
-
+## Full Addon List
 - EllesmereUI
 - BigWigs
 - Targeted Spells
@@ -40,8 +39,8 @@
 - Simulationcraft
 - Addon Usage
 
-## После установки
+## After Installation
 
-Чтобы отключить звук ошибок BugSack:
+To disable BugSack error sounds:
 
 `Escape` → `Options` → `Addons` → `BugSack` → `Mute`.
