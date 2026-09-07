@@ -44,7 +44,6 @@ A clean and minimal UI designed for PvE content, including Mythic+ and raids.
 - MeleeRangeIndicator
 - MRT / Method Raid Tools
 - MDT / Mythic Dungeon Tools
-- MPlusTimer
 - City Guide
 - BugSack
 - BugGrabber
